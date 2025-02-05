@@ -1,3 +1,0 @@
-# Hello gaiz
-
-Be quiet, y'all...
